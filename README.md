@@ -1,2 +1,3 @@
-# seo-metatags-template
+# SEO metatags template
+
 The essential SEO meta tags
