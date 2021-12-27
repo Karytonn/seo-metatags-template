@@ -47,7 +47,7 @@ export default {
         { hid: 'twitter:card', name: 'twitter:card', content: 'summary_large_image' },
         { hid: 'twitter:title', name: 'twitter:title', content: 'Ifastcell' },
         { hid: 'twitter:description', name: 'twitter:description', content: 'Assistência técnica em celular, especializada Apple e venda de aparelhos com garantia' },
-        { hid: 'twitter:image', name: 'twitter:image', content: '/logo.png' },
+        { hid: 'twitter:image', name: 'twitter:image', content: 'https://ifastcell.com.br/logo.png' },
         { hid: 'twitter:image:alt', name: 'twitter:image:alt', content: 'Ifastcell' },
         { hid: 'twitter:site', name: 'twitter:site', content: '@ifastcell' },
         { hid: 'twitter:creator', name: 'twitter:creator', content: '@karytonn' },
