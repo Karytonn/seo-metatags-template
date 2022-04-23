@@ -18,7 +18,6 @@ export default {
   
         // Primary Meta Tags
         { hid: 'description', name: 'description', content: 'Assistência técnica em celular, especializada Apple e venda de aparelhos com garantia' },
-        { hid: 'keywords', name: 'keywords', content: 'celular, assistencia, garantia, aparelhos, apple, samsung, smartwatch, iphone' },
         
         // Secondary Meta Tags
         { hid: 'application-name', name: 'application-name', content: 'Ifastcell' },
