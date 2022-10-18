@@ -40,6 +40,7 @@ export default {
         { hid: 'og:image:alt', property: 'og:image:alt', content: 'Ifastcell' },
         { hid: 'og:image:type', property: 'og:image:type', content: 'image/png' },
         { hid: 'og:image:secure_url', property: 'og:image:secure_url', content: 'https://ifastcell.com.br/og-image.png' },
+        { hid: 'og:image:alt', property: 'og:image:alt', content: 'Ifastcell' },
         { hid: 'fb:page_id', property: 'fb:page_id', content: '108684993812345' },
   
         // Twitter
