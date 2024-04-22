@@ -7,12 +7,10 @@ The essential SEO meta tags
 
 ## Template without framework
 
-Access the template in the ```index.html``` file or [click here](https://github.com/Karytonn/seo-metatags-template/blob/main/index.html)
+[Click here](https://github.com/Karytonn/seo-metatags-template/blob/main/index.html) to access the `index.html` template
 
-## Template NuxtJS framework
+## Template Nuxt 2 and 3
 
-Access the template in the ```nuxt.config.js```file or [click here](https://github.com/Karytonn/seo-metatags-template/blob/main/nuxt.config.js)
+[Click here](https://github.com/Karytonn/seo-metatags-template/blob/main/nuxt.config.js) to access `nuxt.config.js` template.
 
-### by
-
-- [@karytonndev](https://github.com/Karytonn)
+**In Nuxt 3, change to `.ts`*
